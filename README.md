@@ -85,7 +85,7 @@ Here are some of the QA projects and practice tasks I’ve worked on — each sh
 #### 🔗 API Testing Projects
 | Project | Description | Tools |
 |----------|--------------|-------|
-| **REST API Validation** | Tested sample APIs (GET, POST, PUT, DELETE) using Postman. Created and validated JSON schemas and response codes. | 🧰 Postman, Newman |
+| **REST API Validation** | Tested [Reqres](https://reqres.in) sample APIs (GET, POST, PUT, DELETE) using Postman. Created and validated JSON schemas and response codes. | 🧰 Postman, Newman |
 | **Weather API Automation** | Built a small collection to automate weather API testing. | 🧰 Postman, JavaScript Tests |
 
 #### 🤖 Automation Testing Projects
