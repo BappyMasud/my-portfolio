@@ -15,10 +15,8 @@
 ---
 
 ### 🌱 About Me  
-A few months ago, I began my journey into **Software Quality Assurance (SQA)**.  
-I discovered that testing is more than just finding bugs — it’s about improving quality and ensuring great user experiences.  
-I enjoy learning new tools like **Postman**, **Selenium**, and **Git**, and exploring how automation makes testing smarter and faster.  
-My background outside IT helped me build strong **communication**, **teamwork**, and **problem-solving** skills — all essential in QA.  
+
+I’m a motivated beginner in SQA, eager to learn and grow in software testing, with a keen eye for detail and curiosity about how systems work. I am enthusiastic about starting my journey in Software Quality Assurance. I enjoy exploring software works and finding ways to improve them. I am developing my skills in manual testing, API testing, and automation. Committed to continuous improvement, agile teamwork, and delivering high-quality, defect-free software products.
 
 I’m using this portfolio to share my **learning journey**, **projects**, and **test artifacts**.  
 I’m excited to grow as a QA professional — ensuring quality, one test at a time.  
@@ -27,22 +25,21 @@ I’m excited to grow as a QA professional — ensuring quality, one test at a t
 
 ### ⚙️ Tools & Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=white" alt="JMeter"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Newman-FF6C37?logo=postman&logoColor=white" alt="Newman"/>
+  <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=white" alt="JMeter"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium"/>
 </p>
-
 
 ---
 
 ### 📫 Connect with Me  
-- 💼 [LinkedIn](your-linkedin-url)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mdsohelalmasud/) 
 - ✉️ [Email Me](mailto:you@example.com)  
-- 🧾 [My Projects](https://github.com/yourusername?tab=repositories)
 
 ---
 
@@ -57,7 +54,7 @@ I’m excited to grow as a QA professional — ensuring quality, one test at a t
 * [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
 * [GitHub](https://github.com/) - for preparing my projects
 * [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for better and easy formatting GitHub
-* [Xampp](https://www.apachefriends.org/pl/index.html) - for practicing remote base
+* [Xampp](https://www.apachefriends.org/pl/index.html)
 
 ### Tech Skills
 * HTML
@@ -72,7 +69,6 @@ I’m excited to grow as a QA professional — ensuring quality, one test at a t
 * communication
 * assertiveness
 * patience
-
 
 ---
 
@@ -95,7 +91,7 @@ Here are some of the QA projects and practice tasks I’ve worked on — each sh
 #### 🤖 Automation Testing Projects
 | Project | Description | Tools |
 |----------|--------------|-------|
-| **Login Page Automation** | Automated login and validation scenarios for a demo web app. | 🧰 Selenium, Python |
+| **Login Page Automation** | Automated login and validation scenarios for a demo web app. | 🧰 Selenium, JavaScript |
 | **E-Commerce Regression Suite** | Created an automation suite covering product search, add-to-cart, and checkout flows. | 🧰 Selenium WebDriver, TestNG |
 
 ---
