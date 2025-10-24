@@ -79,7 +79,7 @@ Here are some of the QA projects and practice tasks I’ve worked on — each sh
 #### 🧪 Manual Testing Projects
 | Project | Description | Artifacts |
 |----------|--------------|------------|
-| **E-Commerce Website Testing** | Tested a demo shopping site for UI/UX issues, cart functionality, and payment flow. | [Test Plan](your-link-to-testplan) · [Test Cases](your-link-to-testcases) · [Bug Report](your-link-to-bugreport) |
+| **E-Commerce Website Testing** | Tested a demo shopping site [OpenCart - Open Source Shopping Cart Solution](https://demo.opencart.com/) for UI/UX issues, cart functionality, and payment flow. | [Test Plan](your-link-to-testplan) · [Test Cases](your-link-to-testcases) · [Bug Report](your-link-to-bugreport) |
 | **Mobile App QA (To-Do App)** | Performed functional and exploratory testing on an Android To-Do app. | [Test Report](your-link-to-testreport) |
 
 #### 🔗 API Testing Projects
