@@ -2,7 +2,7 @@
 
 <!-- Profile Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BappyMasud/BappyMasud/main/profile.jpg" width="120" style="border-radius:50%" alt="Bappy's Profile Picture"/>
+  <img src="https://raw.githubusercontent.com/BappyMasud/my-portfolio/main/myprofilepic.jpg" width="120" style="border-radius:50%" alt="Bappy's Profile Picture"/>
 </p>
 
 <h1 align="center">Hi, I'm Bappy 👋</h1>
