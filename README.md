@@ -25,13 +25,13 @@ I’m excited to grow as a QA professional — ensuring quality, one test at a t
 
 ### ⚙️ Tools & Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Newman-FF6C37?logo=postman&logoColor=white" alt="Newman"/>
   <img src="https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=white" alt="JMeter"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Newman-FF6C37?logo=postman&logoColor=white" alt="Newman"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium"/>
 </p>
 
