@@ -54,7 +54,6 @@ I’m excited to grow as a QA professional — ensuring quality, one test at a t
 * [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
 * [GitHub](https://github.com/) - for preparing my projects
 * [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for better and easy formatting GitHub
-* [Xampp](https://www.apachefriends.org/pl/index.html)
 
 ### Tech Skills
 * HTML
