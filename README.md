@@ -47,7 +47,7 @@ I’m excited to grow as a QA professional — ensuring quality, one test at a t
 
 ### Tools
 * [Jira](https://www.atlassian.com/pl/software/jira) - for bug tracking
-* [Postman](https://www.postman.com) - for API Testing
+* [Postman](https://sqateston-7289568.postman.co/workspace/qa-test's-Workspace~902592a3-9cce-4d63-8eba-cade0ecaa21c/request/49544159-963ec05b-7a7c-47fd-9d0b-c37c1b911f36?action=share&creator=49544159) - for API Testing
 * [Newman](https://www.npmjs.com/package/newman) - for CI/CD report
 * [Jenkins](https://www.jenkins.io) - for automation server
 * [Slack](https://slack.com/) - for communication within the team
@@ -84,7 +84,7 @@ Here are some of the QA projects and practice tasks I’ve worked on — each sh
 #### 🔗 API Testing Projects
 | Project | Description | Artifacts |
 |----------|--------------|-------|
-| **REST API Validation** | Tested [Reqres](https://reqres.in) sample APIs (GET, POST, PUT, DELETE) using Postman. Created and validated JSON schemas and response codes. | 🧰 Postman, Newman |
+| **REST API Validation** | Tested [Reqres](https://reqres.in) sample APIs (GET, POST, PUT, DELETE) using Postman. Created and validated JSON schemas and response codes. | 🧰 [Postman](https://sqateston-7289568.postman.co/workspace/qa-test's-Workspace~902592a3-9cce-4d63-8eba-cade0ecaa21c/request/49544159-963ec05b-7a7c-47fd-9d0b-c37c1b911f36?action=share&creator=49544159), Newman |
 | ~~**Weather API Automation**~~ | ~~Built a small collection to automate weather API testing.~~ | ~~🧰 Postman, JavaScript Tests~~ |
 
 #### 🤖 Automation Testing Projects
