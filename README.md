@@ -78,20 +78,20 @@ Here are some of the QA projects and practice tasks I’ve worked on — each sh
 #### 🧪 Manual Testing Projects
 | Project | Description | Artifacts |
 |----------|--------------|------------|
-| **E-Commerce Website Testing** | Tested a demo shopping site [OpenCart - Open Source Shopping Cart Solution](https://demo.opencart.com/) for UI/UX issues, cart functionality, and payment flow. | [Test Plan](https://docs.google.com/document/d/10AQsB_a7Z-upP-sUPWrr8DzGjaKamsOY5YX4O4iVmwg/edit?usp=sharing) · [Test Cases](https://docs.google.com/spreadsheets/d/1MnUg_F53TekSnwKPE7IALOe7rErfkuYY4_j1qJL2VhE/edit?usp=sharing) · [Bug Report]() |
-| **Mobile App QA (To-Do App)** | Performed functional and exploratory testing on an Android To-Do app. | [Test Report](your-link-to-testreport) |
+| **E-Commerce Website Testing** | Tested a demo shopping site [OpenCart - Open Source Shopping Cart Solution](https://demo.opencart.com/) for UI/UX issues, cart functionality, and payment flow. | [Test Plan](https://docs.google.com/document/d/10AQsB_a7Z-upP-sUPWrr8DzGjaKamsOY5YX4O4iVmwg/edit?usp=sharing) · [Test Cases](https://docs.google.com/spreadsheets/d/1MnUg_F53TekSnwKPE7IALOe7rErfkuYY4_j1qJL2VhE/edit?usp=sharing) · ~~[Bug Report]()~~ |
+| ~~**Mobile App QA (To-Do App)**~~ | ~~Performed functional and exploratory testing on an Android To-Do app.~~ | ~~[Test Report](your-link-to-testreport)~~ |
 
 #### 🔗 API Testing Projects
-| Project | Description | Tools |
+| Project | Description | Artifacts |
 |----------|--------------|-------|
 | **REST API Validation** | Tested [Reqres](https://reqres.in) sample APIs (GET, POST, PUT, DELETE) using Postman. Created and validated JSON schemas and response codes. | 🧰 Postman, Newman |
-| **Weather API Automation** | Built a small collection to automate weather API testing. | 🧰 Postman, JavaScript Tests |
+| ~~**Weather API Automation**~~ | ~~Built a small collection to automate weather API testing.~~ | ~~🧰 Postman, JavaScript Tests~~ |
 
 #### 🤖 Automation Testing Projects
 | Project | Description | Tools |
 |----------|--------------|-------|
-| **Login Page Automation** | Automated login and validation scenarios for a demo web app. | 🧰 Selenium, JavaScript |
-| **E-Commerce Regression Suite** | Created an automation suite covering product search, add-to-cart, and checkout flows. | 🧰 Selenium WebDriver, TestNG |
+| ~~**Login Page Automation**~~ | ~~Automated login and validation scenarios for a demo web app.~~ | ~~🧰 Selenium, JavaScript~~ |
+| ~~**E-Commerce Regression Suite**~~ | ~~Created an automation suite covering product search, add-to-cart, and checkout flows.~~ | ~~🧰 Selenium WebDriver, TestNG~~ |
 
 ---
 
