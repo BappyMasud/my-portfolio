@@ -96,9 +96,11 @@ Here are some of the QA projects and practice tasks I’ve worked on — each sh
 ---
 
 ### 📚 Learning Projects (In Progress)
-- Building a **Postman Collection** with test scripts and environments.  
-- Writing **Selenium automation scripts** for sample web apps.  
-- Creating a **mini QA dashboard** with bug tracking and reports.  
+- Practicing **Manual Testing** on ecommerce websites.
+- Designing detailed **Test Cases** & **Test Scenarios** in Excel for a demo project.
+- Practicing **API testing** in Postman Collection with test scripts, assertions, and multiple environments for REST APIs.
+- Using **JMeter** for performance testing to analyze response time and throughput of sample APIs.
+- Documenting defects and reports using tools like **Jira**.
 
 ---
 
