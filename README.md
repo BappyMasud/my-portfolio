@@ -39,7 +39,7 @@ I’m excited to grow as a QA professional — ensuring quality, one test at a t
 
 ### 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mdsohelalmasud/) 
-- ✉️ [Email Me](mailto:you@example.com)  
+- ✉️ [Email Me](bappymasud9@gmail.com) 
 
 ---
 
