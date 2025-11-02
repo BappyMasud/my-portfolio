@@ -78,7 +78,7 @@ Here are some of the QA projects and practice tasks I’ve worked on — each sh
 #### 🧪 Manual Testing Projects
 | Project | Description | Artifacts |
 |----------|--------------|------------|
-| **E-Commerce Website Testing** | Tested a [demo OpenCart shopping site](https://demo.webocreation.com/) for UI/UX issues, functionality, and performance. | [Test Plan](https://docs.google.com/document/d/10AQsB_a7Z-upP-sUPWrr8DzGjaKamsOY5YX4O4iVmwg/edit?usp=sharing) · [Test Scenarios](https://docs.google.com/spreadsheets/d/1EXwH8dzpr8JMiQYanxWb8L44l8CIsckgN4aDkDWpcWw/edit?usp=sharing)· [Test Cases](https://docs.google.com/spreadsheets/d/1MnUg_F53TekSnwKPE7IALOe7rErfkuYY4_j1qJL2VhE/edit?usp=sharing) · [Bug Report](https://docs.google.com/spreadsheets/d/1nBpo52eRsBsTrblX2ODgELeyilTBiBqk52xovzI0dnk/edit?usp=sharing) |
+| **E-Commerce Website Testing** | Tested a [demo OpenCart shopping site](https://demo.webocreation.com) for UI/UX issues, functionality, and performance. | [Test Plan](https://docs.google.com/document/d/10AQsB_a7Z-upP-sUPWrr8DzGjaKamsOY5YX4O4iVmwg/edit?usp=sharing) · [Test Scenarios](https://docs.google.com/spreadsheets/d/1EXwH8dzpr8JMiQYanxWb8L44l8CIsckgN4aDkDWpcWw/edit?usp=sharing)· [Test Cases](https://docs.google.com/spreadsheets/d/1MnUg_F53TekSnwKPE7IALOe7rErfkuYY4_j1qJL2VhE/edit?usp=sharing) · [Bug Report](https://docs.google.com/spreadsheets/d/1nBpo52eRsBsTrblX2ODgELeyilTBiBqk52xovzI0dnk/edit?usp=sharing) |
 | ~~**Mobile App QA (To-Do App)**~~ | ~~Performed functional and exploratory testing on an Android To-Do app.~~ | ~~[Test Report](your-link-to-testreport)~~ |
 
 #### 🔗 API Testing Projects
