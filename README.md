@@ -2,7 +2,7 @@
 
 <!-- Profile Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-BappyMasud-black?logo=github" width="120" style="border-radius:50%" alt="Bappy's Profile Picture"/>
+  <img src="https://img.shields.io/badge/GitHub-BappyMasud-black?logo=github"/>
 </p>
 
 <h1 align="center">Hi, I'm Bappy 👋</h1>
