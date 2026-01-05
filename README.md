@@ -43,6 +43,7 @@ I’m excited to grow as a QA professional — ensuring quality, one test at a t
 
 ---
 ⭐ *“Quality means doing it right even when no one is looking.” — Henry Ford*
+
 ---
 
 ### 🧩 My Projects
