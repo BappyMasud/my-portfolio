@@ -42,33 +42,7 @@ I’m excited to grow as a QA professional — ensuring quality, one test at a t
 - ✉️ [Email Me](bappymasud9@gmail.com) 
 
 ---
-
 ⭐ *“Quality means doing it right even when no one is looking.” — Henry Ford*
-
-### Tools
-* [Jira](https://www.atlassian.com/pl/software/jira) - for bug tracking
-* [Postman](https://sqateston-7289568.postman.co/workspace/qa-test's-Workspace~902592a3-9cce-4d63-8eba-cade0ecaa21c/request/49544159-963ec05b-7a7c-47fd-9d0b-c37c1b911f36?action=share&creator=49544159) - for API Testing
-* [Newman](https://www.npmjs.com/package/newman) - for CI/CD report
-* [Jenkins](https://www.jenkins.io) - for automation server
-* [Slack](https://slack.com/) - for communication within the team
-* [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
-* [GitHub](https://github.com/) - for preparing my projects
-* [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for better and easy formatting GitHub
-
-### Tech Skills
-* HTML
-* CSS
-* JavaScript
-* Software testing
-* Creating test cases
-* Reporting bugs
-
-### Soft skills
-* precision
-* communication
-* assertiveness
-* patience
-
 ---
 
 ### 🧩 My Projects
