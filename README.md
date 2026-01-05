@@ -42,7 +42,7 @@ I’m excited to grow as a QA professional — ensuring quality, one test at a t
 - ✉️ [Email Me](bappymasud9@gmail.com) 
 
 ---
-  ⭐ *“**Quality means doing it right even when no one is looking.**” — Henry Ford*
+  ⭐ *“<h3>**Quality means doing it right even when no one is looking.**</h3>” — Henry Ford*
 
 ---
 
