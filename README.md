@@ -54,7 +54,7 @@ Here are some of the QA projects and practice tasks I’ve worked on — each sh
 | Project | Description | Artifacts |
 |----------|--------------|------------|
 | **Demo E-Commerce Website Testing** | Tested a [OpenCart](https://demo.opencart.com) for functionality testing including Register, Login, Logout, Search, Cart etc. | [Test Plan](https://docs.google.com/document/d/10AQsB_a7Z-upP-sUPWrr8DzGjaKamsOY5YX4O4iVmwg/edit?usp=sharing) · [Test Scenarios](https://docs.google.com/spreadsheets/d/1EXwH8dzpr8JMiQYanxWb8L44l8CIsckgN4aDkDWpcWw/edit?usp=sharing)· [Test Cases](https://docs.google.com/spreadsheets/d/1MnUg_F53TekSnwKPE7IALOe7rErfkuYY4_j1qJL2VhE/edit?usp=sharing) · [Bug Report](https://docs.google.com/spreadsheets/d/1nBpo52eRsBsTrblX2ODgELeyilTBiBqk52xovzI0dnk/edit?usp=sharing) |
-| **Demo E-Commerce Website Testing** | An assignment has been completed regarding manual testing and API testing on [demo.evershop.io](https://demo.evershop.io). | [Assignment completion link}(https://drive.google.com/drive/folders/12Y_8paK1Nrw1Dbs-mTfWy6dp5U6QIfo9?usp=sharing) |
+| **Demo E-Commerce Website Testing** | An assignment has been completed regarding manual testing and API testing on [demo.evershop.io](https://demo.evershop.io). | [Assignment completion link](https://drive.google.com/drive/folders/12Y_8paK1Nrw1Dbs-mTfWy6dp5U6QIfo9?usp=sharing) |
 
 #### 🔗 API Testing Projects
 | Project | Description | Artifacts |
