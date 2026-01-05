@@ -53,14 +53,14 @@ Here are some of the QA projects and practice tasks I’ve worked on — each sh
 #### 🧪 Manual Testing Projects
 | Project | Description | Artifacts |
 |----------|--------------|------------|
-| **E-Commerce Website Testing** | Tested a [OpenCart](https://demo.opencart.com) for UI/UX issues, functionality, and performance. | [Test Plan](https://docs.google.com/document/d/10AQsB_a7Z-upP-sUPWrr8DzGjaKamsOY5YX4O4iVmwg/edit?usp=sharing) · [Test Scenarios](https://docs.google.com/spreadsheets/d/1EXwH8dzpr8JMiQYanxWb8L44l8CIsckgN4aDkDWpcWw/edit?usp=sharing)· [Test Cases](https://docs.google.com/spreadsheets/d/1MnUg_F53TekSnwKPE7IALOe7rErfkuYY4_j1qJL2VhE/edit?usp=sharing) · [Bug Report](https://docs.google.com/spreadsheets/d/1nBpo52eRsBsTrblX2ODgELeyilTBiBqk52xovzI0dnk/edit?usp=sharing) |
-| ~~**Mobile App QA (To-Do App)**~~ | ~~Performed functional and exploratory testing on an Android To-Do app.~~ | ~~[Test Report](your-link-to-testreport)~~ |
+| **Demo E-Commerce Website Testing** | Tested a [OpenCart](https://demo.opencart.com) for functionality testing including Register, Login, Logout, Search, Cart etc. | [Test Plan](https://docs.google.com/document/d/10AQsB_a7Z-upP-sUPWrr8DzGjaKamsOY5YX4O4iVmwg/edit?usp=sharing) · [Test Scenarios](https://docs.google.com/spreadsheets/d/1EXwH8dzpr8JMiQYanxWb8L44l8CIsckgN4aDkDWpcWw/edit?usp=sharing)· [Test Cases](https://docs.google.com/spreadsheets/d/1MnUg_F53TekSnwKPE7IALOe7rErfkuYY4_j1qJL2VhE/edit?usp=sharing) · [Bug Report](https://docs.google.com/spreadsheets/d/1nBpo52eRsBsTrblX2ODgELeyilTBiBqk52xovzI0dnk/edit?usp=sharing) |
+| **Demo E-Commerce Website Testing** | An assignment has been completed regarding manual testing and API testing on [demo.evershop.io](https://demo.evershop.io). | [Assignment completion link}(https://drive.google.com/drive/folders/12Y_8paK1Nrw1Dbs-mTfWy6dp5U6QIfo9?usp=sharing) |
 
 #### 🔗 API Testing Projects
 | Project | Description | Artifacts |
 |----------|--------------|-------|
 | **REST API Validation** | Tested [Reqres](https://reqres.in) sample APIs (GET, POST, PUT, DELETE) using Postman. Created and validated JSON schemas and response codes. | 🧰 [Postman](https://sqateston-7289568.postman.co/workspace/qa-test's-Workspace~902592a3-9cce-4d63-8eba-cade0ecaa21c/request/49544159-963ec05b-7a7c-47fd-9d0b-c37c1b911f36?action=share&creator=49544159), [Postman Report](https://bappymasud.github.io/my-portfolio/ReqresNewmanReport.html), [Newman Summary Report](https://BappyMasud.github.io/my-portfolio/NewmanSummaryReport.html) |
-| ~~**Weather API Automation**~~ | ~~Built a small collection to automate weather API testing.~~ | ~~🧰 Postman, JavaScript Tests~~ |
+| ~~**Weather API Automation**~~ | ~~Built a small collection to automate weather API testing.~~ | ~~🧰 Postman, JavaScript~~ |
 
 #### 🤖 Automation Testing Projects
 | Project | Description | Tools |
