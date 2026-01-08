@@ -60,13 +60,13 @@ Here are some of the QA projects and practice tasks I’ve worked on — each sh
 | Project | Description | Artifacts |
 |----------|--------------|-------|
 | **REST API Validation** | Tested [Reqres](https://reqres.in) sample APIs (GET, POST, PUT, DELETE) using Postman. Created and validated JSON schemas and response codes. | 🧰 [Postman](https://sqateston-7289568.postman.co/workspace/qa-test's-Workspace~902592a3-9cce-4d63-8eba-cade0ecaa21c/request/49544159-963ec05b-7a7c-47fd-9d0b-c37c1b911f36?action=share&creator=49544159), [Newman Report](https://bappymasud.github.io/my-portfolio/ReqresNewmanReport.html), [Newman Summary Report](https://BappyMasud.github.io/my-portfolio/NewmanSummaryReport.html) |
-| ~~**Weather API Automation**~~ | ~~Built a small collection to automate weather API testing.~~ | ~~🧰 Postman, JavaScript~~ |
+| **Real Android App API testing** | Tested a real android app for API testing | ~~🧰 Postman, JavaScript~~ |
 
 #### 🤖 Automation Testing Projects
 | Project | Description | Tools |
 |----------|--------------|-------|
 | ~~**Login Page Automation**~~ | ~~Automated login and validation scenarios for a demo web app.~~ | ~~🧰 Selenium, JavaScript~~ |
-| ~~**E-Commerce Regression Suite**~~ | ~~Created an automation suite covering product search, add-to-cart, and checkout flows.~~ | ~~🧰 Selenium WebDriver, TestNG~~ |
+| ~~**E-Commerce Regression Suite**~~ | ~~Created an automation suite covering product search, add-to-cart, and checkout flows.~~ | ~~🧰 Selenium WebDriver~~ |
 
 ---
 
@@ -74,7 +74,8 @@ Here are some of the QA projects and practice tasks I’ve worked on — each sh
 - Practicing **Manual Testing** on ecommerce websites.
 - Designing detailed **Test Cases** & **Test Scenarios** in Excel for a demo project.
 - Practicing **API testing** in Postman Collection with test scripts, assertions, and multiple environments for REST APIs.
-- Using **JMeter** for performance testing to analyze response time and throughput of sample APIs.
+- Precticing **Selenium** with **JavaScript** for automation testing.
+- Using **JMeter** for basic load testing.
 - Documenting defects and reports using tools like **Jira** & **Excel-Sheet**.
 
 ---
